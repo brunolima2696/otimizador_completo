@@ -11,9 +11,11 @@ python3 app.py
 
 ## Variáveis e operações aceitas
 
-As variáveis permitidas como entrada no programa são definidas em `src > otimizador.py`, sob a [lista correspondente](https://github.com/brunolima2696/otimizador_completo/blob/339c0f60636665cf434480963c3428cea89f65dd/src/otimizador.py#L10)
+As variáveis permitidas como entrada no programa são definidas em `src > otimizador.py`, sob a [lista correspondente](https://github.com/brunolima2696/otimizador_completo/blob/339c0f60636665cf434480963c3428cea89f65dd/src/otimizador.py#L10) e as operações aceitas pelo programa são AND,OR e NOT. 
+ 
+> ⚠️  utilizar variáveis não definidas ou operações não aceitas resulta em erro.
 
-As operações aceitas pelo programa são AND,OR e NOT. Um exemplo de entrada é:
+Um exemplo de entrada é:
 
 ```
 (X OR Y) AND (X OR Z)
