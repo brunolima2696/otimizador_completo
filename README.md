@@ -14,7 +14,7 @@ python3 app.py
 As variáveis permitidas como entrada no programa são definidas em `src > otimizador.py`, sob a lista:
 
 ```
-https://github.com/brunolima2696/otimizador_completo/blob/339c0f60636665cf434480963c3428cea89f65dd/src/otimizador.py#L10
+[View Highlighted code](https://github.com/brunolima2696/otimizador_completo/blob/339c0f60636665cf434480963c3428cea89f65dd/src/otimizador.py#L10)
 ```
 
 As operações aceitas pelo programa são AND,OR e NOT. Um exemplo de entrada é:
