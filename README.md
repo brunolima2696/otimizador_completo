@@ -36,6 +36,6 @@ Expressoes:
 
 A lista `R` representa a posição dos mintermos da solução otimizada.
 
-A lista de sets `Fricções` representa cada uma das expressões na saída do algoritmo, com `OR` lógicos entre cada elemento do set `{'--1--'} OR {'---11'}`, e `AND` lógico entre cada item do elemento `'X' ,'Y AND Z'`. `1` representa variáveis sem negação, `0` representam variáveis negadas e `-` representam dontcares.
+A lista de sets `Fricções` representa cada uma das expressões na saída do algoritmo, com `OR` lógico entre cada elemento do set `{'--1--'} OR {'---11'}`, e `AND` lógico entre cada item do elemento `'X' ,'Y AND Z'`. `1` representa variáveis sem negação, `0` representam variáveis negadas e `-` representam dontcares.
 
 A lista de equações `Expressões` representa, num formato legível de equações booleanas, a lista de `Fricções`.
